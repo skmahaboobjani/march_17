@@ -1,0 +1,134 @@
+/* for conatiner style */
+.first{
+    height:13px;
+    background-color:#1098AD ;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+/* with the pre tag as heading */
+
+pre{
+    
+    position: relative;
+    left: 65px;
+    color:#1098AD ;
+    font-family: Arial;
+   
+    font-size: 25px;
+    font-weight: bold;
+    font-style  : italic
+    }
+    /* navbar style */
+    .navbar a  {
+        
+        margin: 10px;
+        position: relative;
+        left: 65px;
+        font-style: normal;
+        color:#1098AD;
+        text-decoration: none;
+        font-family: Arial;
+        
+        
+            
+        
+        
+     }
+     .navbar  a:hover{
+        background-color: rgb(47, 0, 255);
+    }
+     /* for h2 */
+     .head2{
+         font-family: Arial;
+         font-style: bold;
+         color: #1098AD;
+         font-size: 36px;
+         position: relative;
+         left:45px;
+         padding: 15px;
+     }
+     /* for first image */
+    img{
+        position: relative;
+        left: 55px;
+        top: -12px;
+       
+
+    }
+    /* for p1 */
+    .p1{
+        font-family: Arial;
+        color: #444444;
+        font-style: italic;
+        position: relative;
+        left:52px;
+        top: -25px;
+       
+    }
+    /* for image 2 */
+    .image2{
+        position: relative;
+        left: 52px;
+        top:-29px;
+    }
+   
+    /* for h1 */
+    h1{
+        color: #1098AD;
+        font-family: Arial;
+        position: relative;
+        left: 52px;
+
+    }
+   
+    .list li {
+        font-size: 25px;
+        font-family: Arial;
+        position: relative;
+        left: 52px;
+
+    }
+    p{
+        font-size: 25px;
+        font-family: Arial;
+        position: relative;
+        left: 52px;
+
+    }
+    .h3{
+        position: relative;
+        left: 45px;
+        border-top: 8px solid #1098AD;
+        width: 40%;
+        text-align: center;
+        margin-bottom: 60px;
+        padding:40px;
+        }
+        .images{
+            width: 70px;
+            height: 70px;
+            /* top: -45px; */
+
+        }
+        .h4{
+            top:-85px;
+            position: relative;
+            left:52px;
+            border-bottom: 8px solid #1098AD;
+            width: 45%;
+        }
+        .link{
+            color:#1098AD;
+            position: relative;
+            left: 58px;
+            top: -15px;
+            text-decoration: none;
+            font-family: Arial;
+            font-size: 25px;
+
+        }
+        .p2{
+            position: relative;
+            top: -32px;
+            font-family: Arial;
+        }
